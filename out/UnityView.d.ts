@@ -1,4 +1,3 @@
-/// <reference types="react" />
 import * as React from "react";
 import { ViewProperties } from 'react-native';
 import MessageHandler from "./MessageHandler";
