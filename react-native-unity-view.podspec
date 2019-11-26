@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.version      = package["version"]
   s.summary      = package["description"]
   s.description  = <<-DESC
-                  react-native-unity-view
+                  RNUnityView
                    DESC
   s.homepage     = "https://github.com/rexraphael/react-native-unity-view"
   s.license      = "MIT"
@@ -20,7 +20,5 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.dependency "React"
-  # ...
-  # s.dependency "..."
 end
 
