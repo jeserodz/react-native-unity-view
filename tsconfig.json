@@ -10,5 +10,8 @@
         "jsx": "react",
         "sourceMap": true,
         "declaration": true
-    }
+    },
+    "exclude": [
+        "node_modules"
+    ]
 }
